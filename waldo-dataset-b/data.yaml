@@ -1,0 +1,1 @@
+train: C:/Users/dixon/Desktop/ITS365/waldo-dataset-a/train/images\nval: C:/Users/dixon/Desktop/ITS365/waldo-dataset-a/valid/images\nnc: 4\nnames: ['odlaw', 'wally', 'wenda', 'wizard_whitebeard']

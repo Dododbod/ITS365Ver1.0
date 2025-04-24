@@ -1,0 +1,8 @@
+train: 'C:\\Users\\dixon\\Desktop\\ITS365\\waldo-dataset-a\\waldo-dataset-a\\train\\images'
+val: 'C:\\Users\\dixon\\Desktop\\ITS365\\waldo-dataset-a\\waldo-dataset-a\\valid\\images'
+
+nc: 4
+names: ['odlaw', 'wally', 'wenda', 'wizard_whitebeard']
+
+with open("/content/dataset/data.yaml", "w") as f:
+  f.write(data_yaml) convert the file paths to work
